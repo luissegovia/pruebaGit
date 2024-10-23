@@ -1,7 +1,7 @@
 ## Snippets JS
 
 ```sh
-prefix:  `funca`
-description: Function Anonima JS sin params
+- prefix:  `funca`
+- description: Function Anonima JS sin params
 ```
 ##
