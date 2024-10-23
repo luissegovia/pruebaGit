@@ -1,7 +1,7 @@
 ## Snippets JS
 
 ```sh
-prefix: Note that the `vendor`
+prefix:  `funca`
 description: Function Anonima JS sin params
 ```
 ##
