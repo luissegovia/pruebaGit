@@ -1,6 +1,6 @@
 ## Snippets JS
 
-prefix:  `consolee`
+**prefix:**  `consolee`
 
 description: Log output to console
 
