@@ -34,7 +34,7 @@ description: Create Header Axios
 **prefix**: `resAxios` /
 description: Create Response Axios
 
-**prefix**: `faxios /
+**prefix**: `faxios` /
 description: Create Function Anonima Axios
 
 **prefix**: `[for for-luis]` /
