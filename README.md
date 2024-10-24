@@ -1,7 +1,7 @@
 ## Snippets JS
 
 ```sh
-# prefix:  `consolee`
+## prefix:  `consolee`
 description: Log output to console
 
 prefix:  `funca`
