@@ -1,6 +1,7 @@
 ## Snippets JS
 
 prefix:  `consolee`
+
 description: Log output to console
 
 prefix:  `funca`
