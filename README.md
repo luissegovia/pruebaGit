@@ -1,7 +1,6 @@
 ## Snippets JS
 
-```sh
-## prefix:  `consolee`
+# prefix:  `consolee`
 description: Log output to console
 
 prefix:  `funca`
@@ -40,5 +39,3 @@ description: Create Function Anonima Axios
 prefix: `[for for-luis]`
 description: A for loop.
 
-
-```
