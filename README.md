@@ -4,8 +4,11 @@ prefix:  `consolee`
 
 description: Log output to console
 
+
 prefix:  `funca`
+
 description: Function Anonima JS sin params
+
 
 prefix: `funca1`
 description: Function Anonima JS con 1 param
